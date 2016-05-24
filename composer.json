@@ -12,8 +12,8 @@
     ],
 	"minimum-stability": "stable",
 	"require": {
-		"yiisoft/yii2": "*"
-		"dosamigos\datepicker\DatePicker": "*"
+		"yiisoft/yii2": "*",
+		"dosamigos\datepicker\DatePicker": "*",
 		"miloschuman\highcharts\Highcharts": "*"
 	},
     "autoload": {
