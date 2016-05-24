@@ -1,8 +1,7 @@
 {
     "name": "farukkkaradeniz/kalorimetre",
-    "description": "The kalorimetre module for Yii framework.",
+    "description": "Kalorimetre Module",
     "type": "yii2-extension",
-    "keywords": ["yii2", "yii 2", "kalorimetre"],
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -10,14 +9,6 @@
             "email": "farukkaradeniz28@hotmail.com"
         }
     ],
-	"minimum-stability": "stable",
-	"require": {
-		"yiisoft/yii2": "*"
-		
-	},
-    "autoload": {
-        "psr-4": {
-            "farukkkaradeniz\\kalorimetre\\": ""
-        }
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
