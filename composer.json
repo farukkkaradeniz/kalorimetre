@@ -1,0 +1,24 @@
+{
+    "name": "farukkkaradeniz/kalorimetre",
+    "description": "The kalorimetre module for Yii framework.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "content"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Faruk Karadeniz",
+            "email": "karadenizfaruk28@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*"
+		"dosamigos\datepicker\DatePicker": "*"
+		"miloschuman\highcharts\Highcharts": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "farukkkaradeniz\\kalorimetre\\": ""
+        }
+    }
+}
