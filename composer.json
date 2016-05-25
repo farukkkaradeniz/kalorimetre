@@ -9,6 +9,6 @@
             "email": "farukkaradeniz28@hotmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
